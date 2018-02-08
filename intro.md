@@ -3,10 +3,12 @@
 ## Chapter 1 ##
 1. A: We do a crap job of tutorializing.
 1. B: Tutoring you mean? Like teaching?
-1. A: Yes, well ... not quite. But yes. Sortof? Hmm....
+1. A: Yes? But like in games.
+1. A: Not quite, But yes.
+1. Sortof?
 1. *45 seconds have elapsed.*
 1. B: Waiting.
-1. A: So, yes, I guess teaching? Teaching plus onboarding. Making tutorials.
+1. A: So, yes, teaching. Teaching plus onboarding. Making tutorials.
 1. B: Like in games?
 1. A: Like in games.
 1. B: We don't make games.
@@ -41,10 +43,58 @@
 1. A: But school, like that cutscene, is unskippable, whether or not you already know the skills you need to play the game that comes after.
 1. A: PLUS: you totally get hung up on stuff that doesn't-hecking-matter, like that dumb jump. And they don't give you weapons until later on because, I guess it would let you interrupt the cutscene that isn't that good anyway?
 1. A: PLUS PLUS: When Sophie played it she couldn't even get past the first two minutes cause it made her want to vomit. She can't play first person games. School does the same thing to people that don't fit the assumptions about what is easy / hard / impossible for a 'typical' student.
-1. A: +++: Even outside school, culture punishes the kinds of failure that lead to learning and better people, and protects kids from the kinds of experiences that let them learn how to be good people.
+1. A: +++: Even outside school, culture punishes the kinds of failure that lead to learning and better people, and protects kids from the kinds of experiences they most need.
 1. B: Nod. Classes not going so well then? :smiley: #supportivesmile
 
 ## Chapter 3 ##
-B: Hmmm. What can I do to help?
-A: I donno, help me flesh out my ideas? What doesn't make sense?
-B: Well ... I get what you mean by a bad tutorial. But I'm not sure what a good one looks like?
+B: So. Is there anything I can do to help?
+A: I dunno, help me flesh out my ideas? What doesn't make sense?
+B: Alright. I'm going to get a cold beverage. When I come back, I'll bring questions.
+A: Awesome. 
+*3 minutes have elapsed.*
+A: Boooored.
+*2 minutes have elapsed.*
+A: SUPER BORED
+*4 minutes have elapsed.*
+A: 🐱🐶🐱🐶🐱🐶🐱🐶🐱🐶🐱🐶🐱
+A: 🐶🐱🐶🐱🐶🐱🐶🐱🐶🐱🐶🐱🐶
+A: 🐱🐶🐱🐶🐱🐶🐱🐶🐱🐶🐱🐶🐱
+B: OK! I'm back! Jeez. Mom wanted to know about this weekend.
+A: This weekend?
+B: Yes? This weekend? When you're going to be in town?
+A: Yes! This weekend! Right! Oman, I have to pack.
+B: You do, in fact, need to pack. Bring something warm.
+B: What made you realize that we do a "crap job"?
+A: At packing? You're probably great at packing, it's just my lazy ass.
+A: OH, right, at tutorializing. Questions. Also, THANK you! 
+A: So I was sitting in class today, and 
+
+[TODO: ADD FORMATIVE EVENT]
+
+## Chapter 4 ##
+B: So what makes a tutorial good then?
+A: Well. One that works, and doesn't interfere.
+B: For example?
+A: So, you've played super mario right?
+B: Which one?
+A: The first one, but all of them do this sort of thing.
+B: OK. I've played a few of them. Never the first, but I've watched streams.
+A: OK, that's good enough. 
+A: So, at the beginning of the game, mario starts off on the screen, just a flat floor in front of him. If you try to go left, he can't go any farther. So, eventually, after playing around with the buttons, the player presses right...
+A: And sees that the screen scrolls with them! There's even a background with hills to highlight the fact that, yes, this is moving.
+A: So, the player trucks along to the right and comes to the first piece of gameplay: a floating platform made of alternating blocks of bricks and question-marks hovers in the air. Meanwhile, beneath the platform there's a little mushroom man walking slowly towards our hero.
+A: Now, the player has a few options. 
+A: Option A: they can walk into the mushroom man. Unfortunately, this means death for mario. Fortunately, there are more than one chance to die! Plus, now the player knows that touching mushroom men is probably bad.
+A: Option B: they can try to jump over the mushroom man if they've found that button, which they probably have because back in the day there were only two buttons.
+A: If they do that, there's a good chance, just from the way the level is laid out, that they'll accidentally hit their head on one of the question mark blocks. 
+A: Still with me?
+B: Yupparino.
+A: So what comes out of the block?
+B: A coin?
+A: Possibly! That is one of the blocks! BUT the one they're most likely to hit has, you guessed it, another mushroom!
+B: A killer mushroom?
+A: Maybe! To date, mushrooms have been 100% stone cold killers. But this one? It's a totally different color! 
+A: And the way the level is set up, the player is probably going to land on the ground right about where they need to be to pick up that mushroom.
+A: But when they touch this one, instead of dying, mario grows into a big boy. 
+A: The whole first level is like this -- laid out so that a player is likely to learn the lessons of the game without having to be explicitly taught.
+A: Thus should be school.
